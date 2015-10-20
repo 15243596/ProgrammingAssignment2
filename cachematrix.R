@@ -1,6 +1,6 @@
 ## Matrix inversion can be a costly computation and there may 
 ## be some benefit to caching the inverse of a matrix rather than 
-## computing it repeatedly when it is needed. 
+## computing it again when needed. 
 
 ## This program contains functions to compute the inverse of 
 # a matrix (assumed to be invertible), and to cache the result 
